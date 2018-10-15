@@ -1,0 +1,6 @@
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 4\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 4\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 4\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 4\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 4\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 4\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
